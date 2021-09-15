@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+
+.enclosure{
+    width: 70%;
+    background-color: beige;
+    text-align: center;
+    margin: 0 auto;
+    padding: 25px 25px 25px 25px;
+}
+
+p{
+    text-align: left;
+}
+
+ol{
+    text-align: left;
+}
+
+ul{
+    text-align: left;
+}
